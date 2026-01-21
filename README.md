@@ -1,2 +1,3 @@
-# Gestione_errori_php
-questo è un piccolo progettino in qui si spiega la gestione per gli errori
+La gestione degli errori è una parte importante nello sviluppo delle applicazioni web, perché permette di individuare e controllare situazioni non corrette durante l’esecuzione del programma. Gli errori possono dipendere dall’inserimento dei dati, da problemi di sistema o da una gestione non sicura delle informazioni.
+
+Una corretta gestione degli errori aiuta a rendere l’applicazione più stabile e sicura, fornendo all’utente messaggi chiari e comprensibili senza mostrare dettagli tecnici. In questa documentazione vengono descritte le principali strategie per gestire gli errori nelle applicazioni web, inclusa la raccolta degli errori tramite un array dedicato.
